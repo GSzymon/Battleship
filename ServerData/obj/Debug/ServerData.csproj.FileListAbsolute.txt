@@ -1,0 +1,6 @@
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\ServerData\obj\Debug\ServerData.csprojResolveAssemblyReference.cache
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\ServerData\bin\Debug\ServerData.dll.config
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\ServerData\bin\Debug\ServerData.dll
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\ServerData\bin\Debug\ServerData.pdb
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\ServerData\obj\Debug\ServerData.dll
+C:\Users\Szymek\OneDrive\Programowanie\Visual Studio - programy\Battleship\ServerData\obj\Debug\ServerData.pdb
